@@ -1,24 +1,6 @@
-# README
+<h1 dir="rtl"> تطوير شبكة اجتماعية للتدوين المصغر تشبه تويتر </h1>
+<p dir="rtl">الشيفرة المصدرية الخاصة بمسار تطوير شبكة اجتماعية للتدوين المصغر تشبه تويتر ضمن دورة "تطوير تطبيقات الويب باستخدام لغة Ruby" المقدمة من أكاديمية حسوب</p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<div dir="rtl">
+<a href="https://academy.hsoub.com/learn/ruby-web-application-development/">دورة تطوير تطبيقات الويب باستخدام  Ruby</a>
+</div>
